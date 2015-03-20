@@ -1,5 +1,5 @@
 ## Description
-This is a demo tipping application that helps you calculate what amount of tip to leave for a bill, given the percentage you pick. It is a project assignment for the CodePath iOS class.
+This is a tipping application that helps you calculate what amount of tip to leave for a bill, given the percentage you pick. It is a project assignment for the CodePath iOS class.
 
 Hours Spent: 4-5 hours
 
@@ -11,5 +11,6 @@ Hours Spent: 4-5 hours
 
 
 ## Video Walkthrough
+![Video Walkthrough](tips_demo.gif)
 
 Note: GIF created with [LiceCap](http://www.cockos.com/licecap/).
